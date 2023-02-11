@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(26, 26, 26);
+    }
+    button {
+    height: 90px;
+    width: 550px;
+    font-size: 30px;
+    border-radius: 9px;
+    background-color: rgb(145, 52, 52);
+    color: rgb(0, 0, 0);
+    }
